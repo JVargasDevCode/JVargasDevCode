@@ -26,36 +26,12 @@ Assino no mundo da programação como **JVargas**. Sou um estudante extremamente
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
-* **Aplicações:**
-* Desenvolvimento de sistemas em C
-* Estruturas de Dados
-* Listas Encadeadas
-* Listas Circulares Duplamente Encadeadas
-* Recursividade
-* Manipulação de memória e ponteiros
-* Lógica de Programação
-* Sistemas de cadastro
-* Organização de dados usando struct
-* Algoritmos acadêmicos
-* Desenvolvimento de sistemas console
-
 ### 🌐 Front-end 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
-
-* **Interfaces:**
-* HTML5
-* CSS3
-* JavaScript
-* Criação de interfaces web
-* Desenvolvimento de layouts responsivos
-* Organização visual de sistemas
-* UI básica para aplicações web
-* Prototipagem de páginas
-* Integração entre HTML, CSS e JS
 
 ---
 
@@ -76,6 +52,6 @@ Assino no mundo da programação como **JVargas**. Sou um estudante extremamente
 
 Estou sempre aberto a discutir sobre arquitetura de software, desenvolvimento de jogos ou oportunidades de colaboração em projetos Back-end ou Full-stack!
 
-* E-mail: [jvargasdev07@gmail.com]
+* E-mail: jvargasdev07@gmail.com
 
 ---

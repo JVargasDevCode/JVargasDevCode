@@ -18,7 +18,7 @@ Assino no mundo da programação como **JVargas**. Sou um estudante extremamente
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## Linguangens de Progamação
 
 ### 🖥️ Back-end 
 <div>

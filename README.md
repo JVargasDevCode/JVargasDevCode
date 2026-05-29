@@ -41,7 +41,7 @@ Assino no mundo da programação como **JVargas**. Sou um estudante extremamente
 * aonde no sistema recebe números e Strings misturados, separa os dados automaticamente e realiza análise estatísticas e textuais.
 
 ### 📋 Manipulacao de Lista
-*O projeto tem como objetivo aplicar conceitos fundamentais de estruturas de dados através da implementação de operações utilizando listas encadeadas.
+* O projeto tem como objetivo aplicar conceitos fundamentais de estruturas de dados através da implementação de operações utilizando listas encadeadas.
 
 ### 🕹️ Projetos de Jogos (Em Breve)
 * Espaço reservado para os meus primeiros passos no desenvolvimento de jogos independentes.

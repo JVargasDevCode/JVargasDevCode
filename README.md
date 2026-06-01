@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistem
 
 ## 🚀 Sobre Mim
 
-Assino no mundo da programação como **JVargas**. Sou um estudante extremamente dedicado, sempre focado em aprender novas linguagens, dominar novas ferramentas e aprimorar constantemente o meu fluxo de trabalho. Comecei minha jornada estruturando interfaces interativas, sistema simples e estruturas. Estou sempre pronto para buscar novos conhecimento.
+Assino no mundo da programação como **JVargas**. Sou um estudante extremamente dedicado, sempre focado em aprender novas linguagens, dominar novas ferramentas e aprimorar constantemente o meu fluxo de trabalho. Comecei minha jornada estruturando interfaces interativas, sistema simples e estruturas. Estou sempre pronto para buscar novos conhecimentos.
 
 * 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (ADS).
 * 🧠 **Foco Atual:** Especialização em desenvolvimento Back-end e evolução para Full-stack.

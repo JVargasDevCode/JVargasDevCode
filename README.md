@@ -40,6 +40,7 @@ Assino no mundo da programação como **JVargas**. Sou um estudante extremamente
 Estou sempre aberto a discutir sobre arquitetura de software, desenvolvimento de jogos ou oportunidades de colaboração em projetos Back-end ou Full-stack!
 
 
-<a href="https://www.linkedin.com/in/julio-oliveira-de-vargas-17b806304" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>* E-mail: jvargasdev07@gmail.com
+<a href="https://www.linkedin.com/in/julio-oliveira-de-vargas-17b806304" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+* E-mail: jvargasdev07@gmail.com
 
 ---

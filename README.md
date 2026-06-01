@@ -3,7 +3,7 @@
 > "Um programador não pode ser programador sem ter criatividade." 
 > — *Frase de um professor do ensino médio que me inspira até hoje.*
 
-Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em lógica, estrutura de dados e na criação de soluções robustas. Minha paixão está no ecossistema **Back-end** e no desenvolvimento **Full-stack**, onde posso unir a precisão do código com a criatividade para resolver problemas e criar novas experiências.
+Bem-vindo ao meu perfil! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, focado em lógica, estrutura de dados e na criação de soluções robustas. Minha paixão está no ecossistema **Back-end** e no desenvolvimento **Full-stack**, onde posso unir a precisão do código com a criatividade para resolver problemas e criar novas experiências. Neste perfil vai ser voltado para projetos acadêmicos e pessoais.
 
 ---
 
